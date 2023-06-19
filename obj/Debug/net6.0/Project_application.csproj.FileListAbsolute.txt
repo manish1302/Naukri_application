@@ -1,0 +1,15 @@
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\bin\Debug\net6.0\Project_application.exe
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\bin\Debug\net6.0\Project_application.deps.json
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\bin\Debug\net6.0\Project_application.runtimeconfig.json
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\bin\Debug\net6.0\Project_application.dll
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\bin\Debug\net6.0\Project_application.pdb
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\obj\Debug\net6.0\Project_application.csproj.AssemblyReference.cache
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\obj\Debug\net6.0\Project_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\obj\Debug\net6.0\Project_application.AssemblyInfoInputs.cache
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\obj\Debug\net6.0\Project_application.AssemblyInfo.cs
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\obj\Debug\net6.0\Project_application.csproj.CoreCompileInputs.cache
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\obj\Debug\net6.0\Project_application.dll
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\obj\Debug\net6.0\refint\Project_application.dll
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\obj\Debug\net6.0\Project_application.pdb
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\obj\Debug\net6.0\Project_application.genruntimeconfig.cache
+C:\Users\sushma.s\source\repos\Porject_application\Porject_application\obj\Debug\net6.0\ref\Project_application.dll
